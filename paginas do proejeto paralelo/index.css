@@ -1,0 +1,12 @@
+.cabeçalio {
+    background-image: url("https://image.tmdb.org/t/p/original/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg");
+    background-color: rgb(250, 115, 90);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-right: 0px;
+    position: relative;
+    width: 100%;
+}
